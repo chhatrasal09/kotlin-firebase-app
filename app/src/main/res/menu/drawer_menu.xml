@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/questionnaire_menu_option"
+            android:checked="true"
+            android:title="@string/take_quiz" />
+        <item
+            android:id="@+id/add_question_menu_option"
+            android:title="@string/create_quiz" />
+    </group>
+</menu>

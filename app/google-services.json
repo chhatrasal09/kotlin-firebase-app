@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94501863054",
+    "firebase_url": "https://zersey-task.firebaseio.com",
+    "project_id": "zersey-task",
+    "storage_bucket": "zersey-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94501863054:android:248242b0b7a795c2",
+        "android_client_info": {
+          "package_name": "com.app.chhatrasal.zersey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94501863054-qualcfha7uprq7sbn9vrrpcc67cv1c0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.chhatrasal.zersey",
+            "certificate_hash": "4fc0b2d7a17d8d130c8e1960ce2a5227ddfff74d"
+          }
+        },
+        {
+          "client_id": "94501863054-mk5du1dmsm70j1vspcsblea77561eg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM37tF-ABWZn5rVXOKvliEKLhNJAgKnfk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94501863054-mk5du1dmsm70j1vspcsblea77561eg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
